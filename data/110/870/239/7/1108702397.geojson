@@ -1,0 +1,67 @@
+{
+  "id": 1108702397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.894124,1.326725,103.894124,1.326725",
+    "geom:latitude":1.326725,
+    "geom:longitude":103.894124,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Ubi Crescent #07-41 Ubi Techpark",
+    "sg:city":"Singapore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":" 408564",
+    "sg:tags":[
+        "mobile-services",
+        "mobile-solutions",
+        "transcoding",
+        "tagging",
+        "mbill",
+        "unified-im"
+    ],
+    "sg:website":"http://www.mobiquest.net/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xHFIw0uslMVD2kpL41lat_1.326725_103.894124@1308163238"
+    },
+    "wof:country":"SG",
+    "wof:created":1474570862,
+    "wof:geomhash":"abf1da6fd9bbb61e9d9c5d9d797f1a90",
+    "wof:hierarchy":[],
+    "wof:id":1108702397,
+    "wof:lastmodified":1474570862,
+    "wof:name":"Mobiquest",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile-services",
+        "mobile-solutions",
+        "transcoding",
+        "tagging",
+        "mbill",
+        "unified-im"
+    ]
+},
+  "bbox": [
+    103.894124,
+    1.326725,
+    103.894124,
+    1.326725
+],
+  "geometry": {"coordinates":[103.89412400000001,1.326725],"type":"Point"}
+}

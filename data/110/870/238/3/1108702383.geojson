@@ -1,0 +1,85 @@
+{
+  "id": 1108702383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.8348051,1.3524903,103.8348051,1.3524903",
+    "geom:latitude":1.35249,
+    "geom:longitude":103.834805,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 Newton Road Goldhill Plaza #19-10/12",
+    "sg:city":"Singapore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"308900",
+    "sg:tags":[
+        "airtime",
+        "prepaid",
+        "remittance",
+        "top-up",
+        "e-load",
+        "electronic-load",
+        "recharge",
+        "balance",
+        "refill",
+        "migrants",
+        "ethnic",
+        "credit",
+        "international-mobile-transfer",
+        "mobile-transfers",
+        "mobile-prepaid-top-up"
+    ],
+    "sg:website":"http://www.transfer-to.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qnlXFcF8h8K2fTxsXVHaN_1.352490_103.834805@1308163241"
+    },
+    "wof:country":"SG",
+    "wof:created":1474570861,
+    "wof:geomhash":"76d37ebd73426d2c2a196a86d70aedf8",
+    "wof:hierarchy":[],
+    "wof:id":1108702383,
+    "wof:lastmodified":1474570861,
+    "wof:name":"Transfer To\u2122",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airtime",
+        "prepaid",
+        "remittance",
+        "top-up",
+        "e-load",
+        "electronic-load",
+        "recharge",
+        "balance",
+        "refill",
+        "migrants",
+        "ethnic",
+        "credit",
+        "international-mobile-transfer",
+        "mobile-transfers",
+        "mobile-prepaid-top-up"
+    ]
+},
+  "bbox": [
+    103.8348051,
+    1.3524903,
+    103.8348051,
+    1.3524903
+],
+  "geometry": {"coordinates":[103.8348051,1.3524903],"type":"Point"}
+}

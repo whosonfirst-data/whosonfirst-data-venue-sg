@@ -1,0 +1,68 @@
+{
+  "id": 1108702357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.835307,1.303132,103.835307,1.303132",
+    "geom:latitude":1.303132,
+    "geom:longitude":103.835307,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "sg:address":"391B Orchard Road #23-01 Ngee Ann City Tower B",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"238874",
+    "sg:tags":[
+        "-agriculture-physical-commodity-management",
+        "aviation-fuel-risk-management",
+        "rightangle",
+        "coal-supply-and-trade-management-software",
+        "commodity-scheduling-software",
+        "energy-commodity-management-software-solution",
+        "enterprise-trade-and-risk-management-solution"
+    ],
+    "sg:website":"http://www.solarc.com/index.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oDgr5cKeq5l5RhyLK5QTj_1.303132_103.835307@1308163239"
+    },
+    "wof:country":"SG",
+    "wof:created":1474570859,
+    "wof:geomhash":"9716e2555b6accaddb466303ee5c7e99",
+    "wof:hierarchy":[],
+    "wof:id":1108702357,
+    "wof:lastmodified":1474570859,
+    "wof:name":"SolArc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-agriculture-physical-commodity-management",
+        "aviation-fuel-risk-management",
+        "rightangle",
+        "coal-supply-and-trade-management-software",
+        "commodity-scheduling-software",
+        "energy-commodity-management-software-solution",
+        "enterprise-trade-and-risk-management-solution"
+    ]
+},
+  "bbox": [
+    103.835307,
+    1.303132,
+    103.835307,
+    1.303132
+],
+  "geometry": {"coordinates":[103.835307,1.303132],"type":"Point"}
+}

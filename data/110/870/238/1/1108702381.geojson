@@ -1,0 +1,69 @@
+{
+  "id": 1108702381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.82392,1.280574,103.82392,1.280574",
+    "geom:latitude":1.280574,
+    "geom:longitude":103.82392,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "sg:address":"120 Lower Delta Road #09-08 Cendex Centre",
+    "sg:city":"Singapore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"169208",
+    "sg:tags":[
+        "singapore",
+        "software",
+        "web-services",
+        "saas",
+        "email-marketing",
+        "marketing",
+        "web-based-software"
+    ],
+    "sg:website":"http://www.cubiclime.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JzqQJSBg1hsHYpR7adckW_1.280574_103.823920@1308163238"
+    },
+    "wof:country":"SG",
+    "wof:created":1474570861,
+    "wof:geomhash":"52de37e33010ba86124f2a82f694d606",
+    "wof:hierarchy":[],
+    "wof:id":1108702381,
+    "wof:lastmodified":1474570861,
+    "wof:name":"Cubic Lime",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "singapore",
+        "software",
+        "web-services",
+        "saas",
+        "email-marketing",
+        "marketing",
+        "web-based-software"
+    ]
+},
+  "bbox": [
+    103.82392,
+    1.280574,
+    103.82392,
+    1.280574
+],
+  "geometry": {"coordinates":[103.82392,1.280574],"type":"Point"}
+}

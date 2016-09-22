@@ -1,0 +1,63 @@
+{
+  "id": 1108702371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.7807403,1.290801,103.7807403,1.290801",
+    "geom:latitude":1.290801,
+    "geom:longitude":103.78074,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Prince Georges Park Extension Block",
+    "sg:city":"Singapore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"118407",
+    "sg:tags":[
+        "live-chat",
+        "web-chat-software",
+        "ecommerce",
+        "web-tools"
+    ],
+    "sg:website":"http://www.zopim.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FR7jNvHWxAwPO0qBmutNF_1.290801_103.780740@1308163240"
+    },
+    "wof:country":"SG",
+    "wof:created":1474570860,
+    "wof:geomhash":"78a5cce0ac4a0edfb942f72ea5935d6f",
+    "wof:hierarchy":[],
+    "wof:id":1108702371,
+    "wof:lastmodified":1474570860,
+    "wof:name":"Zopim",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "live-chat",
+        "web-chat-software",
+        "ecommerce",
+        "web-tools"
+    ]
+},
+  "bbox": [
+    103.7807403,
+    1.290801,
+    103.7807403,
+    1.290801
+],
+  "geometry": {"coordinates":[103.78074030000001,1.290801],"type":"Point"}
+}

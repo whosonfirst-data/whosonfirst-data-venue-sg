@@ -1,0 +1,67 @@
+{
+  "id": 1108702393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.779503,1.292513,103.779503,1.292513",
+    "geom:latitude":1.292513,
+    "geom:longitude":103.779503,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Prince George's Park",
+    "sg:city":"Singapore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"588376",
+    "sg:tags":[
+        "real-estate",
+        "property",
+        "singapore",
+        "search",
+        "web-2-0",
+        "google-maps"
+    ],
+    "sg:website":"http://www.homespace.sg",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m1SKVGq8Fuv2misl3ubW2_1.292513_103.779503@1308163238"
+    },
+    "wof:country":"SG",
+    "wof:created":1474570862,
+    "wof:geomhash":"28ec6e7f5f75522cd5d188f8a5061d95",
+    "wof:hierarchy":[],
+    "wof:id":1108702393,
+    "wof:lastmodified":1474570862,
+    "wof:name":"HomeSpace",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "real-estate",
+        "property",
+        "singapore",
+        "search",
+        "web-2-0",
+        "google-maps"
+    ]
+},
+  "bbox": [
+    103.779503,
+    1.292513,
+    103.779503,
+    1.292513
+],
+  "geometry": {"coordinates":[103.77950300000001,1.292513],"type":"Point"}
+}

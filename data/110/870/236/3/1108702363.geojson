@@ -1,0 +1,72 @@
+{
+  "id": 1108702363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.847644,1.279696,103.847644,1.279696",
+    "geom:latitude":1.279696,
+    "geom:longitude":103.847644,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "sg:address":"3B Stanley Street",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"068722",
+    "sg:tags":[
+        "mobile",
+        "web",
+        "sms",
+        "broadcast",
+        "marketing",
+        "platform",
+        "software-services",
+        "subscription",
+        "pay-per-use"
+    ],
+    "sg:website":"http://www.mavenlab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uZGQHAqblJTgDxqFdeSb3_1.279696_103.847644@1308163239"
+    },
+    "wof:country":"SG",
+    "wof:created":1474570859,
+    "wof:geomhash":"cb47a0d33db6738db09f046abfb70d0a",
+    "wof:hierarchy":[],
+    "wof:id":1108702363,
+    "wof:lastmodified":1474570859,
+    "wof:name":"Maven Lab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "web",
+        "sms",
+        "broadcast",
+        "marketing",
+        "platform",
+        "software-services",
+        "subscription",
+        "pay-per-use"
+    ]
+},
+  "bbox": [
+    103.847644,
+    1.279696,
+    103.847644,
+    1.279696
+],
+  "geometry": {"coordinates":[103.847644,1.279696],"type":"Point"}
+}

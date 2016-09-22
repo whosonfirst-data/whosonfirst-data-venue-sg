@@ -1,0 +1,65 @@
+{
+  "id": 1108702391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.8541496,1.2863555,103.8541496,1.2863555",
+    "geom:latitude":1.286355,
+    "geom:longitude":103.85415,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Fullerton Road #02-01",
+    "sg:city":"Singapore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"049213",
+    "sg:tags":[
+        "mobile",
+        "iphone",
+        "social-media",
+        "productivity-tools",
+        "software"
+    ],
+    "sg:website":"http://violetenterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vNrLP9yPKhTQYtoxYRI8p_1.286355_103.854150@1308163241"
+    },
+    "wof:country":"SG",
+    "wof:created":1474570862,
+    "wof:geomhash":"ad2caba9627c022702b9ed2d05cc3065",
+    "wof:hierarchy":[],
+    "wof:id":1108702391,
+    "wof:lastmodified":1474570862,
+    "wof:name":"Violet Enterprise Solutions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "iphone",
+        "social-media",
+        "productivity-tools",
+        "software"
+    ]
+},
+  "bbox": [
+    103.8541496,
+    1.2863555,
+    103.8541496,
+    1.2863555
+],
+  "geometry": {"coordinates":[103.8541496,1.2863555],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1108702385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.8510535,1.3427648,103.8510535,1.3427648",
+    "geom:latitude":1.342765,
+    "geom:longitude":103.851054,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "sg:address":"Blk 970 Toa Payoh North #02-12/15 Toa Payoh Industrial Building",
+    "sg:city":"Singapore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"318992",
+    "sg:tags":[
+        "3d",
+        "fanvenues",
+        "3d-seat-view"
+    ],
+    "sg:website":"http://peekspy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eI76NJ4ue7eYDZwe0mfC2_1.342765_103.851054@1308163241"
+    },
+    "wof:country":"SG",
+    "wof:created":1474570861,
+    "wof:geomhash":"dc080ef05151415a775f66a68a730481",
+    "wof:hierarchy":[],
+    "wof:id":1108702385,
+    "wof:lastmodified":1474570861,
+    "wof:name":"Peekspy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "3d",
+        "fanvenues",
+        "3d-seat-view"
+    ]
+},
+  "bbox": [
+    103.8510535,
+    1.3427648,
+    103.8510535,
+    1.3427648
+],
+  "geometry": {"coordinates":[103.85105350000001,1.3427648],"type":"Point"}
+}

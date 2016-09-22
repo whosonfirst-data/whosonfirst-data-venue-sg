@@ -1,0 +1,57 @@
+{
+  "id": 1108702399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.848023,1.281506,103.848023,1.281506",
+    "geom:latitude":1.281506,
+    "geom:longitude":103.848023,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "sg:address":"136B Telok Ayer Street",
+    "sg:city":"Singapore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"068601",
+    "sg:tags":[
+        "personal-finance-applications"
+    ],
+    "sg:website":"http://www.prosperitypersonal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YVIRAUyxyxxn6PIpG2mDU_1.281506_103.848023@1308163238"
+    },
+    "wof:country":"SG",
+    "wof:created":1474570862,
+    "wof:geomhash":"05af0b12dc42aa9ca035cfb07d085e09",
+    "wof:hierarchy":[],
+    "wof:id":1108702399,
+    "wof:lastmodified":1474570862,
+    "wof:name":"Prosperity Financial Services Pte Ltd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal-finance-applications"
+    ]
+},
+  "bbox": [
+    103.848023,
+    1.281506,
+    103.848023,
+    1.281506
+],
+  "geometry": {"coordinates":[103.848023,1.281506],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1108702361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.88043,1.317288,103.88043,1.317288",
+    "geom:latitude":1.317288,
+    "geom:longitude":103.88043,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Sims Lane #08-01",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"387355",
+    "sg:tags":[
+        "web",
+        "e-commerce",
+        "global-trade",
+        "b2b-marketplace",
+        "sourcing",
+        "web-services",
+        "media",
+        "online-marketing",
+        "marketplace",
+        "suppliers",
+        "buying-from-china",
+        "manufacturers"
+    ],
+    "sg:website":"http://www.globalsources.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_457F26FsbZlCDUMTsP5Iyb_1.317288_103.880430@1308163239"
+    },
+    "wof:country":"SG",
+    "wof:created":1474570859,
+    "wof:geomhash":"30f1dc353cdda67c17014bcf78a4f3fa",
+    "wof:hierarchy":[],
+    "wof:id":1108702361,
+    "wof:lastmodified":1474570859,
+    "wof:name":"Global Sources",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web",
+        "e-commerce",
+        "global-trade",
+        "b2b-marketplace",
+        "sourcing",
+        "web-services",
+        "media",
+        "online-marketing",
+        "marketplace",
+        "suppliers",
+        "buying-from-china",
+        "manufacturers"
+    ]
+},
+  "bbox": [
+    103.88043,
+    1.317288,
+    103.88043,
+    1.317288
+],
+  "geometry": {"coordinates":[103.88043,1.317288],"type":"Point"}
+}

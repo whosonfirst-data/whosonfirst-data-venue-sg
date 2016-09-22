@@ -1,0 +1,67 @@
+{
+  "id": 1108702415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.753079,1.328832,103.753079,1.328832",
+    "geom:latitude":1.328832,
+    "geom:longitude":103.753079,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Boon Lay Way, #01-54",
+    "sg:city":"Singaporee",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"609965",
+    "sg:tags":[
+        "enterprise",
+        "social-media",
+        "microblogging",
+        "group-collaboration",
+        "google-apps",
+        "tc50-demopit09"
+    ],
+    "sg:website":"http://socialwok.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pOaL2QeBBSBBIv0ZIEJC6_1.328832_103.753079@1308163242"
+    },
+    "wof:country":"SG",
+    "wof:created":1474570862,
+    "wof:geomhash":"262f7c028c222b1b8564799a0d74651f",
+    "wof:hierarchy":[],
+    "wof:id":1108702415,
+    "wof:lastmodified":1474570862,
+    "wof:name":"Socialwok",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enterprise",
+        "social-media",
+        "microblogging",
+        "group-collaboration",
+        "google-apps",
+        "tc50-demopit09"
+    ]
+},
+  "bbox": [
+    103.753079,
+    1.328832,
+    103.753079,
+    1.328832
+],
+  "geometry": {"coordinates":[103.753079,1.328832],"type":"Point"}
+}

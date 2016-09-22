@@ -1,0 +1,85 @@
+{
+  "id": 1108702367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.8557638,1.297079,103.8557638,1.297079",
+    "geom:latitude":1.297079,
+    "geom:longitude":103.855764,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "sg:address":"135 Middle Road Bylands Building #02-08",
+    "sg:city":"Singapore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"188975",
+    "sg:tags":[
+        "mobile-security",
+        "anti-theft",
+        "symbian",
+        "windows-mobile",
+        "iphone",
+        "android",
+        "laptop",
+        "phones",
+        "mobilephones",
+        "pdaphones",
+        "mac",
+        "windows",
+        "theft-recovery",
+        "kid-protection",
+        "folks-protection"
+    ],
+    "sg:website":"http://www.bak2u.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rohcPHkVvBUqBaDv4nvOd_1.297079_103.855764@1308163240"
+    },
+    "wof:country":"SG",
+    "wof:created":1474570859,
+    "wof:geomhash":"86f5cd2f4f2c0f96ef24f996f23ae649",
+    "wof:hierarchy":[],
+    "wof:id":1108702367,
+    "wof:lastmodified":1474570859,
+    "wof:name":"BAK2u ",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile-security",
+        "anti-theft",
+        "symbian",
+        "windows-mobile",
+        "iphone",
+        "android",
+        "laptop",
+        "phones",
+        "mobilephones",
+        "pdaphones",
+        "mac",
+        "windows",
+        "theft-recovery",
+        "kid-protection",
+        "folks-protection"
+    ]
+},
+  "bbox": [
+    103.8557638,
+    1.297079,
+    103.8557638,
+    1.297079
+],
+  "geometry": {"coordinates":[103.85576380000001,1.297079],"type":"Point"}
+}

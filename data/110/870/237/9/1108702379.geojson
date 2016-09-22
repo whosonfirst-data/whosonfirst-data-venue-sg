@@ -1,0 +1,81 @@
+{
+  "id": 1108702379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.8509159,1.2815533,103.8509159,1.2815533",
+    "geom:latitude":1.281553,
+    "geom:longitude":103.850916,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Raffles Quay#33-08  Hong Leong Building",
+    "sg:city":"Singapore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"048581",
+    "sg:tags":[
+        "online-marketing",
+        "digital-marketing",
+        "mobile-marketing",
+        "advertising",
+        "online-media",
+        "syndication",
+        "social-media-marketing",
+        "south-east-asia",
+        "seo",
+        "sem",
+        "brand-monitoring",
+        "branded-solutions",
+        "digital-pr"
+    ],
+    "sg:website":"http://www.dmsasialimited.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rVgtsGyGj4iAvqdXMwPua_1.281553_103.850916@1308163240"
+    },
+    "wof:country":"SG",
+    "wof:created":1474570861,
+    "wof:geomhash":"7e2c239a78358d908b6428afb7b28f5b",
+    "wof:hierarchy":[],
+    "wof:id":1108702379,
+    "wof:lastmodified":1474570861,
+    "wof:name":"Digital Marketing Solutions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "online-marketing",
+        "digital-marketing",
+        "mobile-marketing",
+        "advertising",
+        "online-media",
+        "syndication",
+        "social-media-marketing",
+        "south-east-asia",
+        "seo",
+        "sem",
+        "brand-monitoring",
+        "branded-solutions",
+        "digital-pr"
+    ]
+},
+  "bbox": [
+    103.8509159,
+    1.2815533,
+    103.8509159,
+    1.2815533
+],
+  "geometry": {"coordinates":[103.8509159,1.2815533],"type":"Point"}
+}

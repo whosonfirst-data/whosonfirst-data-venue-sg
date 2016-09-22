@@ -1,0 +1,64 @@
+{
+  "id": 1108702369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.8422526,1.3523202,103.8422526,1.3523202",
+    "geom:latitude":1.35232,
+    "geom:longitude":103.842253,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Pemimpin Drive #04-03",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"576147",
+    "sg:tags":[
+        "mobile",
+        "m2m",
+        "telematics",
+        "middleware",
+        "asset-tracking"
+    ],
+    "sg:website":"http://www.mtelematics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QkEMvfjyQ1g5S1SkXCm6I_1.352320_103.842253@1308163240"
+    },
+    "wof:country":"SG",
+    "wof:created":1474570859,
+    "wof:geomhash":"28ba962b556df50c07b95af3f3fbd181",
+    "wof:hierarchy":[],
+    "wof:id":1108702369,
+    "wof:lastmodified":1474570859,
+    "wof:name":"mTelematics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "m2m",
+        "telematics",
+        "middleware",
+        "asset-tracking"
+    ]
+},
+  "bbox": [
+    103.8422526,
+    1.3523202,
+    103.8422526,
+    1.3523202
+],
+  "geometry": {"coordinates":[103.84225259999999,1.3523202],"type":"Point"}
+}

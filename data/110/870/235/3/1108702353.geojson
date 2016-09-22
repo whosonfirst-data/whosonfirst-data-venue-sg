@@ -1,0 +1,57 @@
+{
+  "id": 1108702353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.84435,1.278031,103.84435,1.278031",
+    "geom:latitude":1.278031,
+    "geom:longitude":103.84435,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 B Tras Street",
+    "sg:city":"Singapore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"078989",
+    "sg:tags":[
+        "mobile-games-WAP-sms-ringtones"
+    ],
+    "sg:website":"http://www.acme-mobile.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fh7PMx1JyYoEDMDFyyP2t_1.278031_103.844350@1308163237"
+    },
+    "wof:country":"SG",
+    "wof:created":1474570859,
+    "wof:geomhash":"64b32ba5087a9bf6c9c636c136b74c1e",
+    "wof:hierarchy":[],
+    "wof:id":1108702353,
+    "wof:lastmodified":1474570859,
+    "wof:name":"Acme Mobile",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile-games-WAP-sms-ringtones"
+    ]
+},
+  "bbox": [
+    103.84435,
+    1.278031,
+    103.84435,
+    1.278031
+],
+  "geometry": {"coordinates":[103.84435000000001,1.278031],"type":"Point"}
+}
